@@ -1,2 +1,2 @@
 # Outbound
-Outbound RuleSet
+This is a self-use outbound rule library
