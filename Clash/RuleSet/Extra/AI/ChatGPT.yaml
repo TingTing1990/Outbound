@@ -1,1 +1,3 @@
-
+payload:
+  # 账户登录
+  - DOMAIN-KEYWORD,openai
