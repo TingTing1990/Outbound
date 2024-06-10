@@ -1,11 +1,11 @@
 {
     "version": 1,
     "rules": [
+      {
         "domain_suffix": [
             "blog.google",
             "googletraveladservices.com"
         ],
-        {
             "domain": [
                 "clientservices.googleapis.com",
                 "dl.google.com",
@@ -21,6 +21,6 @@
                 "alt7-mtalk.google.com",
                 "alt8-mtalk.google.com"
             ]
-        }
+      }
     ]
 }
