@@ -1,8 +1,10 @@
 {
     "version": 1,
     "rules": [
+      {
         "domain_keyword": [
             "dl-a10b-"
         ]
+      }
     ]
 }
