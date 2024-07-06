@@ -1,11 +1,11 @@
 {
     "version": 1,
     "rules": [
-      {
-        "domain_suffix": [
-            "misakaf.org",
-            "ii00.cc"
-        ]
-      }
+        {
+            "domain_suffix": [
+                "misakaf.org",
+                "ii00.cc"
+            ]
+        }
     ]
 }
