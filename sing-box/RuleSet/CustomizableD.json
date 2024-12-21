@@ -3,7 +3,8 @@
     "rules": [
         {
             "domain_suffix": [
-                "misakaf.org"
+                "misakaf.org",
+                "koofr.net"
             ]
         }
     ]
