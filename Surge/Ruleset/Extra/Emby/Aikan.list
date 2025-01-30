@@ -1,2 +1,4 @@
 # Emby
+DOMAIN-SUFFIX,emby.aikan.la
+DOMAIN-SUFFIX,emby.aikan.cloud
 IP-CIDR,45.196.236.212/32,no-resolve

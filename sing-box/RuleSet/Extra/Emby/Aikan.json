@@ -2,6 +2,12 @@
     "version": 1,
     "rules": [
         {
+            "domain_suffix": [
+                "emby.aikan.la",
+                "emby.aikan.cloud"
+            ]
+        },
+        {
             "ip_cidr": [
                 "45.196.236.212/32"
             ]
