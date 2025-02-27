@@ -2,3 +2,6 @@ payload:
   # Emby
   - DOMAIN-SUFFIX,emby.aikan.la
   - DOMAIN-SUFFIX,emby.aikan.cloud
+
+  # > 临时占用
+  - DOMAIN-SUFFIX,cfgtv.ii00.cc
