@@ -2,6 +2,3 @@ payload:
   # > TXT
   - DOMAIN-SUFFIX,txtnovel.vip
   - DOMAIN-SUFFIX,1000qm.vip
-
-  # > emby代理临时占用
-  - DOMAIN-SUFFIX,cfgtv.ii00.cc
