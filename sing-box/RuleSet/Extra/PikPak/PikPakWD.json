@@ -3,8 +3,11 @@
     "rules": [
         {
             "domain_keyword": [
-                "dl-",
-                "cfgtv.ii00.cc"
+                "dl-"
+            ],
+            "domain_suffix": [
+                "cfgtv.ii00.cc",
+                "myg.mobaiemby.site"
             ]
         }
     ]
