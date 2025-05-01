@@ -1,4 +1,7 @@
 payload:
-  # Emby
+  # MeFun
   - DOMAIN-SUFFIX,g.once.im
   - DOMAIN-SUFFIX,sgtv.ii00.cc
+  # 墨云阁
+  - DOMAIN-SUFFIX,ds4837.mobaiemby.site
+  - DOMAIN-SUFFIX,mygcn.204cloud.com
