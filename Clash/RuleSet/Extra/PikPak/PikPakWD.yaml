@@ -4,4 +4,4 @@ payload:
 
   # > emby代理临时占用
   - DOMAIN-SUFFIX,cfgtv.ii00.cc
-  - DOMAIN-SUFFIX,myg.mobaiemby.site
+  - DOMAIN-SUFFIX,m.mobaiemby.site
