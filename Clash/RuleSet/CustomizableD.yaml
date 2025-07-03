@@ -5,3 +5,5 @@ payload:
   - DOMAIN-SUFFIX,yyai8.com
   # > AlphaVPS
   - DOMAIN-SUFFIX,alphavps.com
+  # > HostHatch
+  - DOMAIN-SUFFIX,hosthatch.com
