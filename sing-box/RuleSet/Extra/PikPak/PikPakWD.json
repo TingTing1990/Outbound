@@ -3,7 +3,8 @@
     "rules": [
         {
             "domain_keyword": [
-                "dl-"
+                "dl-a10b-",
+                "dl-z01a-"
             ],
             "domain_suffix": [
                 "cfgtv.ii00.cc",
