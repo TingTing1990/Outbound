@@ -6,3 +6,4 @@ payload:
   # > emby代理临时占用
   - DOMAIN-SUFFIX,cfgtv.ii00.cc
   - DOMAIN-SUFFIX,m.mobaiemby.site
+  - DOMAIN-SUFFIX,v1.uhdnow.com
