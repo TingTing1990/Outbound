@@ -5,13 +5,7 @@
             "domain_suffix": [
                 "g.once.im",
                 "sgtv.ii00.cc",
-                "mcdn.mobaiemby.site",
-                "mcn.mobaiemby.site"
-            ]
-        },
-        {
-            "ip_cidr": [
-                "103.141.183.18/32"
+                "mcdn.mobaiemby.site"
             ]
         }
     ]
