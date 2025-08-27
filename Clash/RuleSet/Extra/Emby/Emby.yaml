@@ -1,9 +1,11 @@
 payload:
-  # Omega
+  # AlphaTV
+  - DOMAIN-SUFFIX,pro.204cloud.com
+  - DOMAIN-SUFFIX,aaa.204cloud.com
   - DOMAIN-SUFFIX,o.204cloud.com
-
-  # MeFun
-  - DOMAIN-SUFFIX,sgtv.ii00.cc
 
   # 墨云阁
   - DOMAIN-SUFFIX,mcdn.mobaiemby.site
+
+  # MeFun
+  - DOMAIN-SUFFIX,sgtv.ii00.cc
