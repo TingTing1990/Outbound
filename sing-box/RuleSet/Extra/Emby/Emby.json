@@ -3,9 +3,11 @@
     "rules": [
         {
             "domain_suffix": [
+                "pro.204cloud.com",
+                "aaa.204cloud.com",
                 "o.204cloud.com",
-                "sgtv.ii00.cc",
-                "mcdn.mobaiemby.site"
+                "mcdn.mobaiemby.site",
+                "sgtv.ii00.cc"
             ]
         }
     ]
