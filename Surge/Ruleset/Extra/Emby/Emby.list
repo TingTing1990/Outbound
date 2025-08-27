@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,pro.204cloud.com
 DOMAIN-SUFFIX,aaa.204cloud.com
 DOMAIN-SUFFIX,o.204cloud.com
 
+# 115CDN
+DOMAIN-SUFFIX,115cdn.net
+
 # 墨云阁
 DOMAIN-SUFFIX,mcdn.mobaiemby.site
 
