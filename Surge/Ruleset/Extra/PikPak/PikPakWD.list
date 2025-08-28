@@ -3,10 +3,10 @@ DOMAIN-KEYWORD,dl-a10b-
 DOMAIN-KEYWORD,dl-z01a-
 
 # emby代理临时占用
-# > MeFun
-DOMAIN-SUFFIX,cfgtv.ii00.cc
 # > 墨云阁
 DOMAIN-SUFFIX,m.mobaiemby.site
+# > MeFun
+DOMAIN-SUFFIX,cfgtv.ii00.cc
 # > ViKing
 DOMAIN-SUFFIX,cdn.newneeship.com
 DOMAIN-SUFFIX,hk.newneeship.com
