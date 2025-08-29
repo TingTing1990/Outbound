@@ -13,6 +13,11 @@
                 "hk.newneeship.com",
                 "v1.uhdnow.com"
             ]
+        },
+        {
+            "ip_cidr": [
+                "185.148.13.76/23"
+            ]
         }
     ]
 }
