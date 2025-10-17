@@ -10,6 +10,6 @@ payload:
   - DOMAIN-SUFFIX,cfgtv.ii00.cc
   # > ViKing
   - DOMAIN-SUFFIX,cdn.newneeship.com
-  - DOMAIN-SUFFIX,hk.newneeship.com
+  - DOMAIN-SUFFIX,cf.newneeship.com
   # > UHD
   - DOMAIN-SUFFIX,v1.uhdnow.com
