@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,pro.204cloud.com
 DOMAIN-SUFFIX,aaa.204cloud.com
 DOMAIN-SUFFIX,o.204cloud.com
-IP-CIDR,103.120.89.208/32,no-resolve
+IP-CIDR,103.120.89.0/24,no-resolve
 
 # 墨云阁
 DOMAIN-SUFFIX,mcdn.mobaiemby.site
