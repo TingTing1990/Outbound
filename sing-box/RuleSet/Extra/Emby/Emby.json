@@ -9,6 +9,11 @@
                 "mcdn.mobaiemby.site",
                 "sgtv.ii00.cc"
             ]
+        },
+        {
+            "ip_cidr": [
+                "103.120.89.208/32"
+            ]
         }
     ]
 }
