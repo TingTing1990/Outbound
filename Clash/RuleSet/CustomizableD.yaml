@@ -10,3 +10,5 @@ payload:
   - DOMAIN-SUFFIX,spartanhost.org
   # > HostHatch
   - DOMAIN-SUFFIX,hosthatch.com
+  # > 绿叶机场
+  - DOMAIN-SUFFIX,linkcube.org
