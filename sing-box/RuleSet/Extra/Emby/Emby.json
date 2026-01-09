@@ -3,17 +3,8 @@
     "rules": [
         {
             "domain_suffix": [
-                "pro.204cloud.com",
-                "aaa.204cloud.com",
-                "o.204cloud.com",
-                "mcdn.mobaiemby.site",
                 "g.once.im",
                 "sgtv.ii00.cc"
-            ]
-        },
-        {
-            "ip_cidr": [
-                "103.120.89.208/32"
             ]
         }
     ]
