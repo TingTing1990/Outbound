@@ -6,6 +6,7 @@ payload:
   # emby代理临时占用
   # > 墨云阁
   - DOMAIN-SUFFIX,m.mobaiemby.site
+  - IP-CIDR,178.239.125.136/32,no-resolve
   # > MeFun
   - DOMAIN-SUFFIX,cfgtv.ii00.cc
   # > UHD
