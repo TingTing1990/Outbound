@@ -12,6 +12,11 @@
                 "v1.uhdnow.com",
                 "global.uhdnow.com"
             ]
+        },
+        {
+            "ip_cidr": [
+                "178.239.125.136/32"
+            ]
         }
     ]
 }
