@@ -2,3 +2,5 @@ payload:
   # > Koofr WebDAV
   - DOMAIN-SUFFIX,koofr.net
   # > Filen
+  # > Internxt
+  - DOMAIN-SUFFIX,internxt.com
