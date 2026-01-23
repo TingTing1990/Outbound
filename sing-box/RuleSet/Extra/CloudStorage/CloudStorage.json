@@ -3,8 +3,7 @@
     "rules": [
         {
             "domain_suffix": [
-                "koofr.net",
-                "internxt.com"
+                "koofr.net"
             ]
         }
     ]
