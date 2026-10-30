@@ -3,8 +3,12 @@
     "rules": [
         {
             "domain_suffix": [
-                "g.once.im",
-                "sgtv.ii00.cc"
+                "mobaiemby.site",
+                "uhdnow.com"
+            ],
+            "domain_keyword": [
+                "dl-a10b-",
+                "dl-z01a-"
             ]
         }
     ]
