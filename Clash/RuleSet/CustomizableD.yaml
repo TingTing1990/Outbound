@@ -3,12 +3,8 @@ payload:
   - DOMAIN-SUFFIX,115cdn.net
   # > 边界AI
   - DOMAIN-SUFFIX,yyai8.com
-  # > AlphaVPS
-  - DOMAIN-SUFFIX,alphavps.com
   # > SpartanHost
   - DOMAIN-SUFFIX,spartanhost.net
   - DOMAIN-SUFFIX,spartanhost.org
   # > HostHatch
   - DOMAIN-SUFFIX,hosthatch.com
-  # > 绿叶机场
-  - DOMAIN-SUFFIX,linkcube.org
